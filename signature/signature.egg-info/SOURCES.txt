@@ -1,0 +1,8 @@
+setup.py
+signature.py
+signature.egg-info/PKG-INFO
+signature.egg-info/SOURCES.txt
+signature.egg-info/dependency_links.txt
+signature.egg-info/entry_points.txt
+signature.egg-info/requires.txt
+signature.egg-info/top_level.txt
